@@ -8,8 +8,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 👋 Michael Slain Here
-### ⚡️ Full Stack Web & Mobile Developer + UI/UX Designer 
+## 👋 Hi I'm Michael Slain
+### ⚡️ A Full Stack Web & Mobile Developer + UI/UX Designer 
 
 - 🔭 Currently working on project _Timbre_
 - 🌱 Currently learning the Spotify SDK
