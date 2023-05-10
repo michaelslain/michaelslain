@@ -14,6 +14,7 @@
 - 🔭 Currently working on project _Timbre_
 - 🌱 Currently learning the Spotify SDK
 - 👯 Down to collaborate on whatever
+- 🎧 Slowdive enthusiast
 - 📫 How to reach me: [mooch.dev.contact@gmail.com](mailto:mooch.dev.contact@gmail.com)
 
 ### 🛠️ Stack
