@@ -11,13 +11,14 @@
 # 👋 Hi I'm Michael Slain
 ## ⚡️ A Full Stack Web & Mobile Developer + UI/UX Designer 
 
+### 💡 About Me
 - 🔭 Currently working on project _Timbre_
 - 🌱 Currently learning the Spotify SDK
 - 👯 Down to collaborate on whatever
 - 🎧 Slowdive enthusiast
 - 📫 How to reach me: [mooch.dev.contact@gmail.com](mailto:mooch.dev.contact@gmail.com)
 
-### 📲 Socials
+### 📞 Socials
 - 💻 Designs: [Behance](https://www.behance.net/mishaslaind330)
 - 📀 [Spotify](https://open.spotify.com/user/gdjixpnkjqfdy60zwdeyn642x?si=ffb5167d79a9485b)
 
