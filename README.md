@@ -8,7 +8,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 👋 michael slain here
+## 👋 Michael Slain Here
 ### ⚡️ Full Stack Web & Mobile Developer + UI/UX Designer 
 
 - 🔭 Currently working on project _Timbre_
