@@ -19,7 +19,7 @@
 - 📫 How to reach me: [mooch.dev.contact@gmail.com](mailto:mooch.dev.contact@gmail.com)
 
 ### 📞 Socials
-- 💻 Designs: [Behance](https://www.behance.net/mishaslaind330)
+- 💻 Designs: [Behance](https://www.behance.net/m00chle)
 - 📀 [Spotify](https://open.spotify.com/user/gdjixpnkjqfdy60zwdeyn642x?si=ffb5167d79a9485b)
 
 ### 🛠️ Stack
